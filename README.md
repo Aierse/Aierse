@@ -1,5 +1,4 @@
-# Aierse
-## [Portfolio](https://www.notion.so/7146b8d22aee45488825a58f3e2dbe6d)
+# [Portfolio](https://www.notion.so/7146b8d22aee45488825a58f3e2dbe6d)
 ### Backend Developer
 ### Android App Developer
 
