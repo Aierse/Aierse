@@ -6,30 +6,40 @@
 
 ### Language
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-skyblue?logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white"/>
+</div>
 
 ### Front
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white"/>
+</div>
 
 ### Back
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white"/>
+</div>
 
 ### DB
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
+</div>
 
 ### ETC
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&logoColor=white"/>
+</div>
