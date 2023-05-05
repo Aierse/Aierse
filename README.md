@@ -2,7 +2,7 @@
 
 ### <a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
 
-### Tech Stack
+## Tech Stack
 
 ### Language
 
@@ -10,23 +10,23 @@
 <img src="https://img.shields.io/badge/TypeScript-skyblue?logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white"/>
 
-#### Front
+### Front
 
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white"/>
 
-#### Back
+### Back
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white"/>
 
-#### DB
+### DB
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
 
-#### ETC
+### ETC
 
 <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
