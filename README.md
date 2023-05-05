@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,I'm%20Aierse&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,I'm%20Aierse&fontSize=65)
 
 ### <a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
 
