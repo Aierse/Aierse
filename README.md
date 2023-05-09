@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,I'm%20Aierse&fontSize=65)
 
-### <a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
+## Link
 
+<div style="display:flex">
+<a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
+<a href="https://aierse.github.io/HTML-handbook"><img src="https://img.shields.io/badge/HTML%20handbook-E34F26?logo=HTML5&logoColor=white"/></a>
+</div>
+  
 ## Tech Stack
 
 ### Language
