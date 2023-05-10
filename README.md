@@ -6,7 +6,13 @@
 <a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
 <a href="https://aierse.github.io/HTML-handbook"><img src="https://img.shields.io/badge/HTML%20handbook-E34F26?logo=HTML5&logoColor=white"/></a>
 </div>
-  
+
+## Library
+
+<div style="display:flex">
+<a href="https://github.com/Aierse/Paginator.js"><img src="https://img.shields.io/badge/Paginator-페이지네이션%20라이브러리-F7DF1E?logo=JavaScript&logoColor=white"/></a>
+</div>
+
 ## Tech Stack
 
 ### Language
