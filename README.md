@@ -36,7 +36,8 @@
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white"/> -->
 </div>
 
 ### DB
