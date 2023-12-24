@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,I'm%20Aierse&fontSize=65)
 
-## Link
+## Link - Click on the badge for more information.
 
 <div style="display:flex">
 <a href="https://accessible-supernova-c7a.notion.site/7146b8d22aee45488825a58f3e2dbe6d"><img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/></a>
@@ -9,7 +9,9 @@
 <!-- <a href="https://aierse.github.io/HTML-handbook"><img src="https://img.shields.io/badge/HTML%20handbook-61DAFB?logo=React&logoColor=white"/></a> -->
 </div>
 
-## Library
+## Library - Click on the badge for more information.
+
+
 
 <div style="display:flex">
 <a href="https://github.com/Aierse/aierse-between"><img src="https://img.shields.io/badge/Between-자바스크립트%20Between-339933?logo=Node.js&logoColor=white"</a>
