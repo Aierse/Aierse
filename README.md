@@ -56,6 +56,13 @@
 <img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
 </div>
 
+### DevOps
+
+<div style="display:flex">
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white"/>
+</div>
+
+
 ### ETC
 
 <div style="display:flex">
