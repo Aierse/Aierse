@@ -59,6 +59,7 @@
 ### DevOps
 
 <div style="display:flex">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white"/>
 </div>
 
@@ -70,5 +71,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&logoColor=white"/>
 </div>
