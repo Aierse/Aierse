@@ -48,13 +48,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>
 </div>
 
-### DB
-
-<div style="display:flex">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
-</div>
-
 ### AWS
 
 <div style="display:flex">
