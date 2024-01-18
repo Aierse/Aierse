@@ -53,6 +53,7 @@
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white"/>
 </div>
 
