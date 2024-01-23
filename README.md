@@ -52,9 +52,9 @@
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=AWSLambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=AmazonS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=AmazonDynamodb&logoColor=white"/>
 </div>
 
 
@@ -62,6 +62,7 @@
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github%20Actions-2088FF?logo=GithubActions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
 </div>
