@@ -37,12 +37,18 @@
 
 ### Front
 
-<div style="display:flex">
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?logo=SASS&logoColor=white"/>
-<img src="https://img.shields.io/badge/VueJS-4FC08D?logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white"/>
+<div style="display:flex; flex-direction: column;">
+  <div>
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SCSS-CC6699?logo=SASS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/VueJS-4FC08D?logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NextJS-171717?logo=Next.js&logoColor=white"/>
+  </div>
 </div>
 
 ### Back
