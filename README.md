@@ -2,9 +2,12 @@
 
 ## Post
 
-### Latest
+[[프로그래밍] 나만의 클린코드](https://aierse.tistory.com/12)
 
-[![Tistory'S stats](https://github-readme-tistory-card.vercel.app/api?name=Aierse)](https://aierse.tistory.com)
+[리액트 폴더 구조 우수 사례 - 아토믹 패턴](https://aierse.tistory.com/20)
+
+[[Javascript] 신입, 취준생을 위한 현업에서 코드 짜는법(클린코드)](https://aierse.tistory.com/10)
+
 
 ## Link - Click on the badge for more information.
 
