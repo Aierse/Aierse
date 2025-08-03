@@ -6,6 +6,8 @@
 
 [리액트 폴더 구조 우수 사례 - 아토믹 패턴](https://aierse.tistory.com/20)
 
+[리액트 폴더 구조 우수 사례 - Container&Presenter 패턴](https://aierse.tistory.com/22)
+
 [[Javascript] 신입, 취준생을 위한 현업에서 코드 짜는법(클린코드)](https://aierse.tistory.com/10)
 
 
