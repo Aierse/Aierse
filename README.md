@@ -14,6 +14,14 @@
 
 [[Modern][리액트] 한국인이 만든 국산 모달 소개](https://aierse.tistory.com/19)
 
+<div style="display:flex">
+<a href="https://github.com/Aierse/aierse-between"><img src="https://img.shields.io/badge/Between-자바스크립트%20Between-339933?logo=Node.js&logoColor=white"</a>
+<a href="https://github.com/Aierse/vue3-use-pagination"><img src="https://img.shields.io/badge/usePagination-Vue3%20페이지네이션%20훅-4FC08D?logo=Vue.js&logoColor=white"</a>
+<a href="https://github.com/Aierse/aierse-date-format"><img src="https://img.shields.io/badge/Date%20Format-Date%20as%20String%20Library-339933?logo=Node.js&logoColor=white"></a>
+<a href="https://github.com/Aierse/aierse-json-extend"><img src="https://img.shields.io/badge/JSON%20Extend-Effective%20JSON%20Library-339933?logo=Node.js&logoColor=white"></a>
+<a href="https://github.com/Aierse/Paginator.js"><img src="https://img.shields.io/badge/Paginator-페이지네이션%20라이브러리-F7DF1E?logo=JavaScript&logoColor=white"/></a>
+</div>
+
 ## Link - Click on the badge for more information.
 
 <div style="display:flex">
@@ -21,16 +29,6 @@
 <a href="https://github.com/sponsors/Aierse"><img src="https://img.shields.io/badge/Sponsors-181717?logo=Github&logoColor=white"/></a>
 <a href="https://aierse.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?logo=tistory&logoColor=white"/></a>
 <!-- <a href="https://aierse.github.io/HTML-handbook"><img src="https://img.shields.io/badge/HTML%20handbook-61DAFB?logo=React&logoColor=white"/></a> -->
-</div>
-
-## Library - Click on the badge for more information.
-
-<div style="display:flex">
-<a href="https://github.com/Aierse/aierse-between"><img src="https://img.shields.io/badge/Between-자바스크립트%20Between-339933?logo=Node.js&logoColor=white"</a>
-<a href="https://github.com/Aierse/vue3-use-pagination"><img src="https://img.shields.io/badge/usePagination-Vue3%20페이지네이션%20훅-4FC08D?logo=Vue.js&logoColor=white"</a>
-<a href="https://github.com/Aierse/aierse-date-format"><img src="https://img.shields.io/badge/Date%20Format-Date%20as%20String%20Library-339933?logo=Node.js&logoColor=white"></a>
-<a href="https://github.com/Aierse/aierse-json-extend"><img src="https://img.shields.io/badge/JSON%20Extend-Effective%20JSON%20Library-339933?logo=Node.js&logoColor=white"></a>
-<a href="https://github.com/Aierse/Paginator.js"><img src="https://img.shields.io/badge/Paginator-페이지네이션%20라이브러리-F7DF1E?logo=JavaScript&logoColor=white"/></a>
 </div>
 
 ## Tech Stack
