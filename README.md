@@ -60,6 +60,7 @@
 ### Back
 
 <div style="display:flex">
+<img src="https://img.shields.io/badge/ExpressJS-000000?logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>
 </div>
