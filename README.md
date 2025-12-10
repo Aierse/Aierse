@@ -57,6 +57,12 @@
   </div>
 </div>
 
+---
+
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/Pinia-333333?logo=pinia&logoColor=FFD859"/>
+</div>
+
 ### Back
 
 <div style="display:flex">
