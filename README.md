@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/VueJS-4FC08D?logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/NextJS-171717?logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-f30852?logo=Angular"/>
   </div>
 </div>
 
