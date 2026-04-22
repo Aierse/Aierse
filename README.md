@@ -61,6 +61,7 @@
 ---
 
 <div style="display: flex">
+  <img src="https://img.shields.io/badge/Turborepo-FF1E56?logo=Turborepo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinia-333333?logo=pinia&logoColor=FFD859"/>
 </div>
 
