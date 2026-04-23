@@ -88,6 +88,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github%20Actions-2088FF?logo=GithubActions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white"/>
 </div>
 
 ---
